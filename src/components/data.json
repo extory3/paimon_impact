@@ -1,0 +1,55 @@
+[
+  {
+    "title": "Meet Paimon",
+    "sub_title": "The Best Companion",
+    "description": "Paimon is a cute and non-playable character in Genshin Impact, accompanies the Traveler throughout their adventure in Teyvat as their guide.",
+    "backgroundColor": "#89ABE3FF",
+    "primaryText": "#FCF6F5FF",
+    "backgroundColorBtn": "#2b3595",
+    "secondaryBackground": "#65d6ce",
+    "textColorBtn": "#f3f9fb",
+    "png": "/img/paimon.png",
+    "link": "https://genshin-impact.fandom.com/wiki/Paimon"
+  },
+  {
+    "title": "Meet Xiao",
+    "sub_title": "The Adeptus",
+    "description": "is an adeptus and the only remaining member of the Five Yakshas dispatched by Morax to subdue the demonic spirits that plagued Liyue.",
+
+    "backgroundColor": "#ADEFD1FF",
+    "primaryText": "#00203FFF",
+    "backgroundColorBtn": "#65d6ce",
+    "secondaryBackground": "#6930c3",
+    "textColorBtn": "#f3f9fb",
+    "png": "/img/xiao.png",
+    "star": "/img/4stars.png",
+    "link": "https://www.lastlevels.com/genshin-impact/characters/27-xiao/"
+  },
+  {
+    "title": "Meet Qiqi",
+    "sub_title": "The Cryo",
+    "description": "is a Cryo character who is resurrected as a zombie by the adepti.",
+
+    "backgroundColor": "#6930c3",
+    "primaryText": "#fff",
+    "backgroundColorBtn": "#8885FF",
+    "secondaryBackground": "#2b3595",
+    "textColorBtn": "#f3f9fb",
+    "png": "/img/qiqi.png",
+    "star": "/img/5stars.png",
+    "link": "https://www.lastlevels.com/genshin-impact/characters/20-qiqi/"
+  },
+  {
+    "title": "Meet Zhongli",
+    "sub_title": "The Geo",
+    "description": "He is also a playable character and is a consultant for the Wangsheng Funeral Parlor.",
+
+    "backgroundColor": "#D4B996FF",
+    "primaryText": "#A07855FF",
+    "backgroundColorBtn": "#ddac7c",
+    "secondaryBackground": "#2b3595",
+    "textColorBtn": "#f3f9fb",
+    "png": "/img/zhongli.png",
+    "link": "https://www.lastlevels.com/genshin-impact/characters/35-zhongli/"
+  }
+]
