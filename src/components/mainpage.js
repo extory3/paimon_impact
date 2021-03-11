@@ -44,7 +44,7 @@ function MainPage(props) {
         }}
       >
         <GenshinLogo
-          sx={{ mt: 3, ml: 3, width: "100px", height: "100px", fill: "red" }}
+          sx={{ mt: 3, ml: 4, width: "90px", height: "90px", fill: "red" }}
         />
         <div sx={{ mx: "auto" }} />
 
